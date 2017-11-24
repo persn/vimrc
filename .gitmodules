@@ -7,3 +7,6 @@
 [submodule "bundle/vim-vstudio-theme"]
 	path = bundle/vim-vstudio-theme
 	url = https://github.com/termNinja/vim-vstudio-theme.git
+[submodule "bundle/vim-nerdtree-tabs"]
+	path = bundle/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
